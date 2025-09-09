@@ -1,0 +1,33 @@
+2025-09-09 12:37:49,803 - ERROR - Binance API Exception: APIError(code=-1022): Signature for this request is not valid.
+2025-09-09 12:38:37,940 - ERROR - Binance API Exception: APIError(code=-1022): Signature for this request is not valid.
+2025-09-09 12:40:04,837 - ERROR - Binance API Exception: APIError(code=-1022): Signature for this request is not valid.
+2025-09-09 12:45:39,957 - INFO - Order placed: {'orderId': 5643565167, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4ab951362eebf47d8a267f', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1757402139125}
+2025-09-09 12:46:17,707 - INFO - Order placed: {'orderId': 5643565467, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJe277f484f2dd6ff3975bea', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1757402176880}
+2025-09-09 13:01:40,482 - INFO - HTTP Request: GET http://127.0.0.1:7862/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-09 13:01:40,530 - INFO - HTTP Request: HEAD http://127.0.0.1:7862/ "HTTP/1.1 200 OK"
+2025-09-09 13:01:40,623 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-09 13:03:51,673 - ERROR - Balance check failed: APIError(code=None): None
+2025-09-09 13:04:32,648 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:08:03,894 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:15:03,426 - INFO - HTTP Request: GET http://127.0.0.1:7863/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-09 13:15:03,443 - INFO - HTTP Request: HEAD http://127.0.0.1:7863/ "HTTP/1.1 200 OK"
+2025-09-09 13:15:03,538 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-09 13:15:39,752 - ERROR - Balance check failed: APIError(code=None): None
+2025-09-09 13:17:28,816 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:19:00,745 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:33:43,970 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-09 13:33:44,017 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-09 13:36:16,993 - INFO - HTTP Request: GET http://127.0.0.1:7861/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-09 13:36:17,010 - INFO - HTTP Request: HEAD http://127.0.0.1:7861/ "HTTP/1.1 200 OK"
+2025-09-09 13:36:17,342 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-09 13:37:47,618 - INFO - HTTP Request: GET http://127.0.0.1:7862/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-09 13:37:47,634 - INFO - HTTP Request: HEAD http://127.0.0.1:7862/ "HTTP/1.1 200 OK"
+2025-09-09 13:37:47,945 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-09 13:46:54,538 - ERROR - Balance check failed: APIError(code=None): None
+2025-09-09 13:47:36,956 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:47:41,933 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:48:35,092 - ERROR - Binance API Exception: APIError(code=None): None
+2025-09-09 13:49:10,240 - INFO - HTTP Request: GET http://127.0.0.1:7863/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-09 13:49:10,274 - INFO - HTTP Request: HEAD http://127.0.0.1:7863/ "HTTP/1.1 200 OK"
+2025-09-09 13:49:10,541 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-09 13:50:16,740 - ERROR - Balance check failed: APIError(code=None): None
